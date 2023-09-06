@@ -1,0 +1,190 @@
+2023-09-01 16:47:57.788 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @677ms
+2023-09-01 16:47:57.927 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 16:47:57.938 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@aba625{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 16:47:58.157 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 16:47:58.173 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@4bf48f6{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 16:47:58.206 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@6304101a{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 16:47:58.207 [main] INFO  org.eclipse.jetty.server.Server - Started @1101ms
+2023-09-01 16:51:54.564 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@6304101a{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 16:51:54.570 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@4bf48f6{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 16:51:54.570 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@aba625{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 16:51:56.986 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @423ms
+2023-09-01 16:51:57.079 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 16:51:57.088 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 16:51:57.288 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 16:51:57.308 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 16:51:57.339 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 16:51:57.340 [main] INFO  org.eclipse.jetty.server.Server - Started @780ms
+2023-09-01 16:53:29.234 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 16:53:29.238 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 16:53:29.239 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 16:53:31.171 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @398ms
+2023-09-01 16:53:31.264 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 16:53:31.273 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 16:53:31.466 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 16:53:31.487 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 16:53:31.519 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 16:53:31.519 [main] INFO  org.eclipse.jetty.server.Server - Started @750ms
+2023-09-01 17:02:19.673 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:02:19.679 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:02:19.680 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:02:22.093 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @423ms
+2023-09-01 17:02:22.201 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:02:22.208 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:02:22.417 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:02:22.439 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:02:22.472 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:02:22.473 [main] INFO  org.eclipse.jetty.server.Server - Started @806ms
+2023-09-01 17:02:47.573 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:02:47.578 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:02:47.578 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:02:50.077 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @471ms
+2023-09-01 17:02:50.185 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:02:50.195 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:02:50.388 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:02:50.410 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:02:50.441 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:02:50.442 [main] INFO  org.eclipse.jetty.server.Server - Started @839ms
+2023-09-01 17:03:31.134 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:03:31.138 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:03:31.139 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:03:32.501 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @421ms
+2023-09-01 17:03:32.597 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:03:32.605 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:03:32.801 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:03:32.826 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:03:32.860 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:03:32.861 [main] INFO  org.eclipse.jetty.server.Server - Started @783ms
+2023-09-01 17:05:43.359 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:05:43.364 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:05:43.365 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:05:44.817 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @440ms
+2023-09-01 17:05:44.918 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:05:44.926 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:05:45.131 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:05:45.152 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:05:45.185 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:05:45.186 [main] INFO  org.eclipse.jetty.server.Server - Started @813ms
+2023-09-01 17:06:49.238 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:06:49.242 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:06:49.243 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:06:50.653 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @407ms
+2023-09-01 17:06:50.755 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:06:50.763 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:06:50.974 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:06:50.994 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:06:51.027 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:06:51.027 [main] INFO  org.eclipse.jetty.server.Server - Started @784ms
+2023-09-01 17:07:13.577 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:07:13.581 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:07:13.583 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:07:14.939 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @426ms
+2023-09-01 17:07:15.046 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:07:15.056 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:07:15.250 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:07:15.274 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:07:15.310 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:07:15.311 [main] INFO  org.eclipse.jetty.server.Server - Started @801ms
+2023-09-01 17:07:52.492 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:07:52.496 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:07:52.497 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:07:53.798 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @399ms
+2023-09-01 17:07:53.900 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:07:53.908 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:07:54.126 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:07:54.151 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:07:54.189 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:07:54.190 [main] INFO  org.eclipse.jetty.server.Server - Started @794ms
+2023-09-01 17:10:52.400 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:10:52.405 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:10:52.405 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:10:53.767 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @440ms
+2023-09-01 17:10:53.866 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:10:53.875 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:10:54.085 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:10:54.104 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:10:54.135 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:10:54.135 [main] INFO  org.eclipse.jetty.server.Server - Started @811ms
+2023-09-01 17:11:07.329 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:11:07.333 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:11:07.334 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:11:08.727 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @431ms
+2023-09-01 17:11:08.838 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:11:08.847 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:11:09.050 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:11:09.069 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:11:09.101 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:11:09.101 [main] INFO  org.eclipse.jetty.server.Server - Started @808ms
+2023-09-01 17:14:42.247 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:14:42.252 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:14:42.252 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:14:44.703 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @411ms
+2023-09-01 17:14:44.799 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:14:44.808 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:14:45.011 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:14:45.033 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:14:45.066 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:14:45.067 [main] INFO  org.eclipse.jetty.server.Server - Started @778ms
+2023-09-01 17:15:37.338 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:15:37.342 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:15:37.343 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:15:39.228 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @423ms
+2023-09-01 17:15:39.329 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:15:39.337 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:15:39.535 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:15:39.556 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:15:39.591 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:15:39.592 [main] INFO  org.eclipse.jetty.server.Server - Started @790ms
+2023-09-01 17:18:11.511 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:18:11.515 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:18:11.516 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:18:12.881 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @418ms
+2023-09-01 17:18:12.976 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:18:12.984 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:18:13.202 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:18:13.225 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:18:13.259 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:18:13.260 [main] INFO  org.eclipse.jetty.server.Server - Started @800ms
+2023-09-01 17:22:12.216 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:22:12.221 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:22:12.222 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:22:13.583 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @444ms
+2023-09-01 17:22:13.677 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:22:13.684 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:22:13.883 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:22:13.905 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:22:13.941 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:22:13.942 [main] INFO  org.eclipse.jetty.server.Server - Started @805ms
+2023-09-01 17:29:19.347 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:29:19.352 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:29:19.353 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:29:21.775 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @420ms
+2023-09-01 17:29:21.873 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:29:21.882 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:29:22.096 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:29:22.118 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:29:22.152 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:29:22.153 [main] INFO  org.eclipse.jetty.server.Server - Started @802ms
+2023-09-01 17:30:05.264 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:30:05.268 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:30:05.269 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:30:06.525 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @397ms
+2023-09-01 17:30:06.620 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:30:06.629 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:30:06.815 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:30:06.834 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:30:06.865 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:30:06.866 [main] INFO  org.eclipse.jetty.server.Server - Started @740ms
+2023-09-01 17:30:41.703 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@27adc16e{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:30:41.708 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@1cb346ea{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:30:41.708 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@43f02ef2{/cfps-api/upload,null,UNAVAILABLE}
+2023-09-01 17:30:43.031 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @432ms
+2023-09-01 17:30:43.121 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.10.v20150310
+2023-09-01 17:30:43.129 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,AVAILABLE}
+2023-09-01 17:30:43.343 [main] INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor - NO JSP Support for /cfps-api, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2023-09-01 17:30:43.367 [main] INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,AVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:30:43.399 [main] INFO  org.eclipse.jetty.server.ServerConnector - Started ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:30:43.399 [main] INFO  org.eclipse.jetty.server.Server - Started @804ms
+2023-09-01 17:30:56.850 [Thread-0] INFO  org.eclipse.jetty.server.ServerConnector - Stopped ServerConnector@2609b277{HTTP/1.1}{0.0.0.0:8800}
+2023-09-01 17:30:56.857 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.w.WebAppContext@14a50707{/cfps-api,file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp/,UNAVAILABLE}{file:/D:/GitRepository/yuhe/cfps8/cfps-web/src/main/webapp}
+2023-09-01 17:30:56.857 [Thread-0] INFO  org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.h.ContextHandler@2a8448fa{/cfps-api/upload,null,UNAVAILABLE}
