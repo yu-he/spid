@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yuhe.spid.fil.mapper.FilAwbInfoMapper">
+
+    <select id="queryListTest" resultType="com.yuhe.spid.fil.entity.FilAwbInfoEntity">
+        select * from t_fil_awbinfo where stockTypeId = #{stockTypeId} and stockPre = #{stockPre}
+    </select>
+</mapper>

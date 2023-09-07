@@ -7,14 +7,21 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.List;
+
 @RestController
 @AllArgsConstructor
 @RequestMapping("/filAwbInfo")
 public class FilAwbInfoController {
     private final FilAwbInfoService service;
 
-    @GetMapping(value = "/getOneTest")
+    @GetMapping("/getOneTest")
     public FilAwbInfoEntity getOneTest() {
         return service.getOneTest();
+    }
+
+    @GetMapping("/getListTest")
+    public List<FilAwbInfoEntity> getListTest() {
+        return service.getListTest();
     }
 }
