@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class FilAwbInfoController {
     private final FilAwbInfoService service;
 
-    @GetMapping("/getOneTest")
+    @GetMapping(value = "/getOneTest")
     public FilAwbInfoEntity getOneTest() {
         return service.getOneTest();
     }

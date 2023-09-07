@@ -13,18 +13,7 @@
 
     <context:property-placeholder location="classpath:system.properties"/>
 
-    <!-- REST中根据URL后缀自动判定Content-Type及相应的View -->
-    <bean id="contentNegotiationManager" class="org.springframework.web.accept.ContentNegotiationManagerFactoryBean">
-        <property name="mediaTypes" >
-            <map>
-                <entry key="xml" value="application/xml"/>
-                <entry key="json" value="application/json"/>
-            </map>
-        </property>
-        <property name="ignoreAcceptHeader" value="true"/>
-        <property name="favorPathExtension" value="true"/>
-    </bean>
-    <mvc:annotation-driven content-negotiation-manager="contentNegotiationManager">
+    <mvc:annotation-driven>
         <mvc:message-converters register-defaults="true">
             <bean class="org.springframework.http.converter.StringHttpMessageConverter">
                 <constructor-arg value="UTF-8"/>
@@ -35,6 +24,8 @@
                         <value>application/x-www-form-urlencoded;charset=UTF-8</value>
                         <value>text/plain;charset=UTF-8</value>
                         <value>application/json;charset=UTF-8</value>
+                        <value>text/html;charset=UTF-8</value>
+                        <value>application/xml;charset=UTF-8</value>
                     </list>
                 </property>
                 <property name="prettyPrint" value="true"/>
