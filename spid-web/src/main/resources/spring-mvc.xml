@@ -47,7 +47,6 @@
                 <property name="mapUnderscoreToCamelCase" value="false"/>
             </bean>
         </property>
-        <property name="typeAliasesPackage" value="com.yuhe.spid"/>
         <property name="mapperLocations" value="classpath*:/mapper/*.xml"/>
     </bean>
 
