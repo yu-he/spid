@@ -7,4 +7,6 @@ import java.util.List;
 
 public interface FilAwbInfoMapper extends BaseMapper<FilAwbInfoEntity> {
     List<FilAwbInfoEntity> queryListTest(FilAwbInfoEntity entity);
+
+    int updateCreateTime(FilAwbInfoEntity entity);
 }

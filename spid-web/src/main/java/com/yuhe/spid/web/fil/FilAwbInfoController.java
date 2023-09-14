@@ -3,9 +3,7 @@ package com.yuhe.spid.web.fil;
 import com.yuhe.spid.fil.entity.FilAwbInfoEntity;
 import com.yuhe.spid.fil.service.FilAwbInfoService;
 import lombok.AllArgsConstructor;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -23,5 +21,10 @@ public class FilAwbInfoController {
     @GetMapping("/getListTest")
     public List<FilAwbInfoEntity> getListTest() {
         return service.getListTest();
+    }
+
+    @PostMapping("/updateCreateTime")
+    public int updateCreateTime(@RequestBody FilAwbInfoEntity entity){
+        return service.updateCreateTime(entity);
     }
 }

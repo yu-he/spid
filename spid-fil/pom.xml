@@ -23,5 +23,10 @@
             <artifactId>spid-common</artifactId>
             <version>${spid.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.yuhe</groupId>
+            <artifactId>spid-base</artifactId>
+            <version>${spid.version}</version>
+        </dependency>
     </dependencies>
 </project>
