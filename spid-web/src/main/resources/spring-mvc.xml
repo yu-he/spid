@@ -64,4 +64,12 @@
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <property name="basePackage" value="com.yuhe.spid.*.mapper"/>
     </bean>
+
+    <!-- 拦截器配置-->
+    <mvc:interceptors>
+        <mvc:interceptor>
+            <mvc:mapping path="/interceptor"/>
+            <bean class="com.yuhe.spid.web.interceptor.TestInterceptor"/>
+        </mvc:interceptor>
+    </mvc:interceptors>
 </beans>
